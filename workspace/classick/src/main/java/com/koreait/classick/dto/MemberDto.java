@@ -21,6 +21,7 @@ public class MemberDto {
 	private String mAddr;
 	private String mLastAddr;
 	private String mPhone;
+	private String mPFilename;
 	private String mPayment;
 	private String mPoint;
 	private String mGrade;
