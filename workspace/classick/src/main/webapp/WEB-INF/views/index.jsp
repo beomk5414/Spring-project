@@ -6,7 +6,8 @@
 <jsp:include page="template/header.jsp" >
 	<jsp:param value="Classick - Home" name="title"/>
 </jsp:include>
-	<h1>index.jsp</h1>
+	<h1>슬라이더</h1>
+	<h1></h1>
 
 <%-- footer.jsp --%>
 <%@ include file="template/footer.jsp" %>

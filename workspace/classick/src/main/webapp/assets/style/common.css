@@ -15,6 +15,14 @@ body {
 	width: 100%;
 	height: 120px;
 }
+.nav ul{
+	list-style: none;
+	display: flex;
+}
+
+.nav li{
+	padding: 10px;
+}
 
 .body-wrap {
 	width: 100%;
