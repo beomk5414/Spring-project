@@ -3,8 +3,9 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <%-- header.jsp --%>
-<jsp:include page="template/header.jsp" />
-
+<jsp:include page="template/header.jsp" >
+	<jsp:param value="Classick - Home" name="title"/>
+</jsp:include>
 	<h1>index.jsp</h1>
 
 <%-- footer.jsp --%>

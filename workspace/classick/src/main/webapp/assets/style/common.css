@@ -1,5 +1,30 @@
 @charset "UTF-8";
 
-h1 {
-	color: red;
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	margin: 0px;
+}
+
+.head-wrap {
+	width: 100%;
+	height: 120px;
+}
+
+.body-wrap {
+	width: 100%;
+	min-height: 810px;
+}
+
+.foot-wrap {
+	border-top: 3px solid #ff7b30;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding: 10px;
 }
